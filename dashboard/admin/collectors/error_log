@@ -1,0 +1,122 @@
+[01-Jan-2022 23:37:46 Africa/Cairo] PHP Notice:  Undefined variable: UserIdLogin in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/add.php on line 35
+[01-Jan-2022 23:37:46 Africa/Cairo] PHP Notice:  Undefined variable: UserIdLogin in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/add.php on line 51
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:00 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:17 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payment-receipt.php on line 45
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:11:51 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:11:55 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payment-receipt.php on line 45
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:03 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:12:25 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payment-receipt.php on line 45
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:46 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payment-receipt.php on line 45
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[05-Jan-2022 20:13:57 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 236
+[05-Jan-2022 20:14:02 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payment-receipt.php on line 45
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Undefined index: UserID in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/payer.php on line 47
+[11-Jan-2022 15:18:35 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 252
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 203
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 276
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 432
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 466
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 455
+[01-Feb-2022 17:50:50 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 56
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 203
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 276
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 432
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 466
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 455
+[01-Feb-2022 17:51:20 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 56
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 203
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 53
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 276
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 432
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 466
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 54
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/HeaderFunction.php on line 455
+[24-Jul-2022 18:22:41 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/dashboard/admin/collectors/receipt-index.php on line 56

@@ -1,0 +1,12 @@
+[18-Nov-2022 17:52:20 UTC] PHP Warning:  include(../controller/function.php): failed to open stream: No such file or directory in /home/cffpl4x8y6gx/public_html/dashboard/layout/head.php on line 2
+[18-Nov-2022 17:52:20 UTC] PHP Warning:  include(): Failed opening '../controller/function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cffpl4x8y6gx/public_html/dashboard/layout/head.php on line 2
+[18-Nov-2022 17:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoginAdmin() in /home/cffpl4x8y6gx/public_html/dashboard/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cffpl4x8y6gx/public_html/dashboard/login.php on line 2
+[18-Nov-2022 17:52:22 UTC] PHP Warning:  include(../controller/function.php): failed to open stream: No such file or directory in /home/cffpl4x8y6gx/public_html/dashboard/layout/head.php on line 2
+[18-Nov-2022 17:52:22 UTC] PHP Warning:  include(): Failed opening '../controller/function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cffpl4x8y6gx/public_html/dashboard/layout/head.php on line 2
+[18-Nov-2022 17:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoginAdmin() in /home/cffpl4x8y6gx/public_html/dashboard/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cffpl4x8y6gx/public_html/dashboard/login.php on line 2

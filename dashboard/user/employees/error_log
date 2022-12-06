@@ -1,0 +1,10 @@
+[03-Jan-2022 14:55:54 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/outlay.php on line 30
+[03-Jan-2022 19:34:23 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47
+[05-Jan-2022 04:02:53 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/outlay.php on line 30
+[05-Jan-2022 04:03:33 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47
+[05-Jan-2022 05:17:40 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/outlay.php on line 30
+[05-Jan-2022 05:18:08 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47
+[05-Jan-2022 05:44:36 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47
+[05-Jan-2022 15:15:45 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47
+[05-Jan-2022 15:15:47 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/outlay.php on line 30
+[05-Jan-2022 15:16:19 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/dashboard/user/employees/index.php on line 47

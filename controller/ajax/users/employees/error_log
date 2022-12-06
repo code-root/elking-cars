@@ -1,0 +1,19 @@
+[05-Jan-2022 04:06:32 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:07:24 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:07:53 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:08:54 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:09:11 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:09:26 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:11:11 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:11:50 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:12:08 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:12:20 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 04:12:28 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 05:25:12 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 05:26:25 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 05:43:23 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 05:44:17 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 15:17:39 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 15:18:13 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 15:18:45 Africa/Cairo] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/add.php on line 78
+[05-Jan-2022 18:02:00 Africa/Cairo] PHP Notice:  Undefined index: customerID in /home/cffpl4x8y6gx/public_html/controller/ajax/users/employees/outlay.php on line 23

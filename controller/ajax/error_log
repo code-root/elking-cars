@@ -1,0 +1,9 @@
+[13-Jan-2022 19:38:31 Africa/Cairo] PHP Notice:  Undefined index: files in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 19:38:31 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 19:38:31 Africa/Cairo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 19:38:48 Africa/Cairo] PHP Notice:  Undefined index: files in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 19:38:48 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 19:38:48 Africa/Cairo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 21:15:36 Africa/Cairo] PHP Notice:  Undefined index: files in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 21:15:36 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
+[13-Jan-2022 21:15:36 Africa/Cairo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cffpl4x8y6gx/public_html/controller/ajax/img-uploaded.php on line 19
